@@ -24,7 +24,7 @@ of useful *tools* and techniques for software engineering and computational rese
 
 - http://www.soton.ac.uk/~FEEG6003
 - http://computationalmodelling.bitbucket.io
-
+- http://www.archer.ac.uk/training
 ---
 
 ## Teaching staff
@@ -35,19 +35,19 @@ of useful *tools* and techniques for software engineering and computational rese
 
 ---
 
-## Pre-flight checklist
+# Pre-flight checklist
 
----
++++
 
-### Hardware
+## Hardware
 
 - Bring a laptop to all lectures/workshops
 - Spec and OS not *too* important
 - We will use [VirtualBox](http://www.virtualbox.org) VMs
 
----
++++
 
-### Software
+## Software
 
 - ACM 1 (GIT, Python, ...)
 - General computing skills
@@ -83,7 +83,7 @@ Tue 20 - Thu 22 March 2018
 
 ## MPI
 
-Three-day workshop delivered by **Mark Bull**
+Three-day workshop delivered by **David Henty**
 
 Wed 11 - Fri 13 April 2018
 
