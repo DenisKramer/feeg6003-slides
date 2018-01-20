@@ -16,3 +16,11 @@ git checkout -b <branchname>
 ```
 
 Please do **not** change files on the ```master``` branch. This will make it easier to merge global changes into individual presentations later.
+
+### Editing an existing presentations
+
+To edit an existing presentation, it's branch needs to be checked out:
+
+```bash
+git checkout <branchname>
+```
