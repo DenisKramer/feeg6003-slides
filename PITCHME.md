@@ -13,7 +13,7 @@
 
 ---
 
-## Why are we here
+## Why are we here?
 
 The module teaches parallel programming using *OpenMP* and *MPI*, and a number
 of useful *tools* and techniques for software engineering and computational research
@@ -35,6 +35,8 @@ of useful *tools* and techniques for software engineering and computational rese
 
 ---
 
+@title[Pre-flight]
+
 # Pre-flight checklist
 
 +++
@@ -55,6 +57,8 @@ of useful *tools* and techniques for software engineering and computational rese
 - Self-organisation
 
 ---
+
+@title[Activities]
 
 # Teaching activities
 
@@ -91,6 +95,8 @@ Wed 11 - Fri 13 April 2018
 
 ---
 
+@title[Assessments]
+
 # Assessments
 
 +++
@@ -112,6 +118,8 @@ Wed 11 - Fri 13 April 2018
 
 ---
 
+@title[Lift-Off]
+
 # Lift-Off
 
 +++
@@ -126,7 +134,7 @@ Key skills for **your** workshop deliveries
 | 20  | Mon 12 Feb 2018 | VirtualBox      |
 | 21  | Mon 19 Feb 2018 | Pelican         |
 
-No Tuesday sessions for the first four weeks 
+No Tuesday sessions for the first four weeks
 
 +++
 
