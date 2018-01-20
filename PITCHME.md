@@ -5,7 +5,7 @@
 ---
 @title[Outline]
 
-# Outline
+## Outline
 
 - Introduction
 - Housekeeping
@@ -13,21 +13,21 @@
 
 ---
 
-# Why are we here
+## Why are we here
 
 The module teaches parallel programming using *OpenMP* and *MPI*, and a number
 of useful *tools* and techniques for software engineering and computational research
 
 ---
 
-# Resources and contact
-
 ## Webpages
 
 - http://www.soton.ac.uk/~FEEG6003
 - http://computationalmodelling.bitbucket.io
 
-# Contacts and teaching staff
+---
+
+## Contacts and teaching staff
 
 - **Denis Kramer** (Module coordinator)
 - Ian Hawke
