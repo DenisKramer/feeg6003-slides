@@ -138,6 +138,20 @@ No Tuesday sessions for the first four weeks
 
 +++
 
+## Expectations
+
+[Assessment criteria on module page](http://www.soton.ac.uk/~feeg6003/pages/assessment-criteria-guidance.html)
+
+### Before
+- Announce workshop
+- Create and publish blog
+- Create and publish VM
+
+### After
+- Reflect on delivery
+
++++
+
 ## Topic selection
 
 Trello board at
