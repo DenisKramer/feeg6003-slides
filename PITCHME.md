@@ -118,14 +118,15 @@ Wed 11 - Fri 13 April 2018
 
 ## Initial workshops
 
+Key skills for **your** workshop deliveries
+
 | TW  | Date            | Topic           |
 | --- | --------------- | --------------- |
 | 19  | Mon 5 Feb 2018  | Topic selection |
 | 20  | Mon 12 Feb 2018 | VirtualBox      |
 | 21  | Mon 19 Feb 2018 | Pelican         |
 
-- No Tuesday sessions for the first four weeks
-- Key skills for **your** workshop deliveries
+No Tuesday sessions for the first four weeks 
 
 +++
 
