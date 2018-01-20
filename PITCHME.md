@@ -91,4 +91,21 @@ Wed 11 - Fri 13 April 2018
 
 ---
 
-## Assessments
+# Assessments
+
++++
+
+| Component    | Activity | Weight |
+| ------------ | -------- | ------ |
+| Coursework 1 | OpenMP   | 35%    |
+| Coursework 2 | MPI      | 35%    |
+| Presentation | Tools    | 30%    |
+
++++
+
+## Deadlines and feedback
+
+- Tools workshops are marked live with instant feedback
+- Deadlines for coursework will be announced shortly
+
+> We expect **you** to contribute to a workshop even if you attend **not** for credit!
