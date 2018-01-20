@@ -138,8 +138,6 @@ No Tuesday sessions for the first four weeks
 
 +++
 
-## Expectations
-
 [Assessment criteria on module page](http://www.soton.ac.uk/~feeg6003/pages/assessment-criteria-guidance.html)
 
 ### Before
