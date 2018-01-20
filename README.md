@@ -11,6 +11,8 @@ The ```master``` branch contains a set of files for [gitpitch](http://www.gitpit
 
 Gitpitch works with branches. A new branch should be started for each presentation:
 
-  git checkout -b <branchname>
+```bash
+git checkout -b <branchname>
+```
 
 Please do **not** change files on the ```master``` branch. This will make it easier to merge global changes into individual presentations later.
