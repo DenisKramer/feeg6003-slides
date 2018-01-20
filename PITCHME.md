@@ -73,9 +73,21 @@ A series of two-hour workshops with content mostly decided by **you**
 
 ## OpenMP
 
+Three-day workshop delivered by **Mark Bull**
+
+Tue 20 - Thu 22 March 2018
+
+<span style="color: red">Non-term time</span>
+
 +++
 
 ## MPI
+
+Three-day workshop delivered by **Mark Bull**
+
+Wed 11 - Fri 13 April 2018
+
+<span style="color: red">Non-term time</span>
 
 ---
 
