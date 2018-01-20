@@ -111,8 +111,8 @@ Wed 11 - Fri 13 April 2018
 
 ## Deadlines and feedback
 
-- Tools workshops are marked live with instant feedback
-- Deadlines for coursework will be announced shortly
+- Tools workshops are marked live
+- Deadlines for coursework announced shortly
 
 > We expect **you** to contribute to a workshop even if you attend **not** for credit!
 
