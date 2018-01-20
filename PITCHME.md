@@ -140,12 +140,12 @@ No Tuesday sessions for the first four weeks
 
 [Assessment criteria on module page](http://www.soton.ac.uk/~feeg6003/pages/assessment-criteria-guidance.html)
 
-### Before
+### Preparations
 - Announce workshop
 - Create and publish blog
 - Create and publish VM
 
-### After
+### After-Care
 - Reflect on delivery
 
 +++
