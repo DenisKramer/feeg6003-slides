@@ -58,10 +58,9 @@ of useful *tools* and techniques for software engineering and computational rese
 
 ## Tools workshops
 
-- A series of two-hour workshops
-- Content mostly decided by **you**
+A series of two-hour workshops with content mostly decided by **you**
 
-| Day      | Time                                    |
-| -------- | --------------------------------------- |
-| Monday   | 9am to 11am                             |
-| Tuesdays | 3pm to 5pm (from TW22 - 26 Feb onwards) |
+| Day      | Time                            |
+| -------- | ------------------------------- |
+| Monday   | 9am to 11am                     |
+| Tuesdays | 3pm to 5pm (from TW22 - 26 Feb) |
