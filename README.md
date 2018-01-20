@@ -5,7 +5,7 @@ This repo holds public teaching material for the ACM 2.
 
 ## Instructions for gitpitch
 
-The ```master``` branch contains a set of files for [gitpitch](http://www.gitpitch.com).
+The ```master``` branch contains a set of files for [gitpitch](http://gitpitch.com).
 
 ### Starting a new presentation
 
