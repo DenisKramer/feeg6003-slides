@@ -1,4 +1,4 @@
-# Advanced Computational Modelling 2
+## Advanced Computational Modelling 2
 
 **FEEG6003**
 
@@ -37,11 +37,15 @@ of useful *tools* and techniques for software engineering and computational rese
 
 ## Pre-flight checklist
 
+---
+
 ### Hardware
 
 - Bring a laptop to all lectures/workshops
 - Spec and OS not *too* important
 - We will use [VirtualBox](http://www.virtualbox.org) VMs
+
+---
 
 ### Software
 
@@ -54,7 +58,7 @@ of useful *tools* and techniques for software engineering and computational rese
 
 # Teaching activities
 
----
++++
 
 ## Tools workshops
 
@@ -64,3 +68,15 @@ A series of two-hour workshops with content mostly decided by **you**
 | -------- | ------------------------------- |
 | Monday   | 9am to 11am                     |
 | Tuesdays | 3pm to 5pm (from TW22 - 26 Feb) |
+
++++
+
+## OpenMP
+
++++
+
+## MPI
+
+---
+
+## Assessments
