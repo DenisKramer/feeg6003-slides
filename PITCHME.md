@@ -22,7 +22,7 @@ of useful *tools* and techniques for software engineering and computational rese
 
 ## Webpages
 
-- http://www.soton.ac.uk/~FEEG6003
+- http://www.soton.ac.uk/~feeg6003
 - http://computationalmodelling.bitbucket.io
 - http://www.archer.ac.uk/training
 ---
