@@ -51,7 +51,7 @@ of useful *tools* and techniques for software engineering and computational rese
 
 ## Software
 
-- ACM 1 (GIT, Python, ...)
+- Adv. Computational Modelling 1 (GIT, Python, ...)
 - General computing skills
 - Communication skills
 - Self-organisation
