@@ -22,7 +22,7 @@ of useful *tools* and techniques for software engineering and computational rese
 
 ## Webpages
 
-- http://www.soton.ac.uk/~feeg6003
+- http://feeg6003.info
 - http://computationalmodelling.bitbucket.io
 - http://www.archer.ac.uk/training
 ---
@@ -30,8 +30,8 @@ of useful *tools* and techniques for software engineering and computational rese
 ## Teaching staff
 
 - **Denis Kramer** (Module coordinator)
-- Ian Hawke
 - Peter Horak
+- Ian Hawke
 
 ---
 
@@ -68,10 +68,10 @@ of useful *tools* and techniques for software engineering and computational rese
 
 A series of two-hour workshops with content mostly decided by **you**
 
-| Day      | Time                            |
-| -------- | ------------------------------- |
-| Monday   | 9am to 11am                     |
-| Tuesdays | 3pm to 5pm (from TW22 - 26 Feb) |
+| Day      | Time                             |
+| -------- | -------------------------------- |
+| Tuesdays | 10am to 12am                     |
+| Fridays  | 10am to 12am (from TW4 - 22 Feb) |
 
 +++
 
@@ -79,20 +79,22 @@ A series of two-hour workshops with content mostly decided by **you**
 
 Three-day workshop delivered by **Mark Bull**
 
-Tue 20 - Thu 22 March 2018
+Tue 2 - Thu 4 April 2019
 
 <span style="color: red">Non-term time</span>
 
+Separate registration on [Archer Webpage](https://www.archer.ac.uk/training/)
 +++
 
 ## MPI
 
 Three-day workshop delivered by **David Henty**
 
-Wed 11 - Fri 13 April 2018
+Wed 24 - Fri 26 April 2018
 
 <span style="color: red">Non-term time</span>
 
+Separate registration on [Archer Webpage](https://www.archer.ac.uk/training/)
 ---
 
 @title[Assessments]
@@ -112,7 +114,7 @@ Wed 11 - Fri 13 April 2018
 ## Deadlines and feedback
 
 - Tools workshops are marked live
-- Deadlines for coursework announced shortly
+- Deadlines for coursework announced shortly (likely 2 weeks after workshop)
 
 > We expect **you** to contribute to a workshop even if you attend **not** for credit!
 
@@ -130,22 +132,24 @@ Key skills for **your** workshop deliveries
 
 | TW  | Date            | Topic           |
 | --- | --------------- | --------------- |
-| 19  | Mon 5 Feb 2018  | Topic selection |
-| 20  | Mon 12 Feb 2018 | VirtualBox      |
-| 21  | Mon 19 Feb 2018 | Pelican         |
+| 18  | Tue 29 Jan 2019 | Topic selection |
+| 19  | Tue 5 Feb 2018  | VirtualBox      |
+| 20  | Tue 12 Feb 2018 | Pelican         |
 
-No Tuesday sessions for the first four weeks
+No Friday sessions for the first three weeks
 
 +++
 
-[Assessment criteria on module page](http://www.soton.ac.uk/~feeg6003/pages/assessment-criteria-guidance.html)
+[Assessment criteria on module page](http://feeg6003.info/pages/assessment-criteria-guidance.html)
 
 ### Preparations
+
 - Announce workshop
 - Create and publish blog
 - Create and publish VM
 
 ### After-Care
+
 - Reflect on delivery
 
 +++
